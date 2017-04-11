@@ -37,3 +37,4 @@ color:
   nav: "#8a2100"
   navtext: "#ed8564"
   link: "#de4d1f"
+theme: jekyll-theme-cayman
